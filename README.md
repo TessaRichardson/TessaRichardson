@@ -1,73 +1,93 @@
 ## Hi there 👋
-<!-- Animated Banner -->
+<!-- Banner Animation (Laptop Floating with Servers) -->
 <p align="center">
-  <img src="https://github.com/TessaRichardson/TessaRichardson/blob/main/assets/banner.PNG" width="100%" alt="Tessa Richardson Banner"/>
+  <img src="https://github.com/TessaRichardson/TessaRichardson/blob/main/banner.PNG" alt="Animated Banner" width="100%" />
 </p>
 
-<!-- Animated SVG via Lottie -->
-<p align="center">
-  <a href="https://lottiefiles.com/animations/tech-girl-coding-3XzGyZyF0H">
-    <img src="https://lottie.host/f629f4b1-92b4-4c8d-b7ae-2f738d2d138b/3GVDKwsHNe.json" alt="Coding Girl Animation" width="150"/>
-  </a>
-</p>
-
-<h1 align="center">Hi, I'm Tessa!</h1>
+<h1 align="center">
+  Hi there, I’m Tessa Richardson!
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
 
 <p align="center">
-  A machine learning explorer with a love for financial systems, intelligent design, and building tools that turn chaos into clarity.
+  <em>Software Engineer • Data Scientist • Creative Technologist</em><br>
+  <strong>Currently building intelligent investment tools & exploring the magic where data meets design</strong>
 </p>
 
 ---
 
-### **What I'm Passionate About**
+## 🚀 About Me
 
-- Machine learning models that make decisions in the real world  
-- Smart automation and portfolio intelligence  
-- Data storytelling with visuals, dashboards, and movement  
-- Creative coding with color, rhythm and personality  
-- Building quirky things that help people feel smart
+- **Passionate about:** intelligent systems, financial algorithms, visual storytelling & tech that feels magical.
+- **Past Projects:**  
+  - Predicting stock prices using **LSTM**  
+  - Building a full-stack **JSE trading system**  
+  - Enhancing ML pipelines with **sentiment-driven insights**  
+  - Engineering biofilm growth simulations and visual dashboards
 
----
+- **Current Mission:**  
+  Designing smart, ethical, and explainable tools in fintech, while keeping it ✨aesthetic✨
 
-### **Currently Building**
-
-**JSE Investment Challenge**
-> An intelligent trading platform that evaluates *all* JSE stocks, predicts price movements with **LSTM**, tracks portfolio performance, and rebalances positions based on **real-time news sentiment** and strategy signals.
-
-![Badges](https://img.shields.io/badge/ML-LSTM%20Forecasting-yellow)
-![Badges](https://img.shields.io/badge/Sentiment-VADER%20+%20NewsAPI-blue)
-![Badges](https://img.shields.io/badge/Backtesting-Live-green)
-![Badges](https://img.shields.io/badge/Dashboard-Streamlit-red)
-
-[View Repo](https://github.com/TessaRichardson/JSE-Investment-Challenge)
+- **Fun Facts:**
+  - I blend code with creativity — think **financial forecasting meets data art**
+  - I believe that good code should **work well and look good**
+  - I enjoy crafting interactive dashboards, generative visuals, and clever ML logic
 
 ---
 
-### **Other Projects**
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Spotify Recommender](https://github.com/TessaRichardson/Spotify-Recommender) | Personalized playlist generator using collaborative filtering and TensorFlow | `Next.js`, `FastAPI`, `Docker` |
-| [SureBets Arbitrage Bot](https://github.com/TessaRichardson/SureBets) | Finds and sizes sports betting arbitrage opportunities in real-time | `BeautifulSoup`, `Matplotlib`, `Pandas` |
-
----
-
-### **Stats**
+## 🛠️ Technologies I Love Working With
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TessaRichardson&show_icons=true&theme=gruvbox" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,heroku,tensorflow,sklearn,pandas,plotly,streamlit,nextjs,javascript,git,docker,vscode" />
 </p>
 
 ---
 
-### **Let's Connect**
+## 📈 Highlight Project: JSE Investment System
 
-- [LinkedIn](https://www.linkedin.com/in/tessarichardson)
-- [Portfolio Website](https://tessarichardson.dev) *(optional if you add it later)*
-- Always open to building cool tools with passionate people.
+> **What it does**: Evaluates **all stocks on the JSE** using:
+> - LSTM-based **stock price prediction**
+> - **Sentiment analysis** from live news feeds
+> - Multi-strategy engine (value, momentum, quality, sentiment, combined)
+> - Real-time **portfolio rebalancing**
+> - Beautiful interactive dashboard
+> - Fully automated trade simulation
+
+> **Built With**:
+> - Python, FastAPI, SQLite/PostgreSQL, Streamlit, LSTM (TensorFlow), NewsAPI, Matplotlib, Scikit-learn
+
+> **Why it’s special**:
+> - It doesn’t just recommend stocks — it **adapts to the market**, **learns from news**, and tells you **when to sell underperforming holdings** in favor of better opportunities.
+> - Designed as a full **research-grade dissertation project**, with complete testing, backtesting, CI/CD pipeline, and real-market data integration.
 
 ---
 
+## ✨ Portfolio
+
+Stay tuned! My custom portfolio site [byTessa.com](https://byTessa.com) is coming soon:
+- Sleek design
+- Interactive visuals
+- Live project previews
+- Dev blog: “Ideas I Can’t Unsee”
+
+---
+
+## 💬 Let's Connect
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <a href="https://www.linkedin.com/in/tessa-richardson" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tessa.richardson.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%23ea4335.svg?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/TessaRichardson"><img alt="GitHub" src="https://img.shields.io/badge/github-%2312100E.svg?style=flat&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+## 🧠 “Code that works is great. Code that tells a story? Even better.”
+
+```python
+# my current mindset:
+while not inspired:
+    learn()
+    build()
+    rest()
+    repeat()
