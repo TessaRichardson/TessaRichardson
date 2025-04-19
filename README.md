@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TessaRichardson/TessaRichardson/main/banner.png" alt="Banner" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/TessaRichardson/TessaRichardson/main/banner.Png" alt="Banner" style="max-width: 100%;">
 </p>
 
 <!-- Animated Header -->
