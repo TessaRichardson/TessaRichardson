@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <!-- Banner Animation (Laptop Floating with Servers) -->
 <p align="center">
   <img src="https://github.com/TessaRichardson/TessaRichardson/blob/main/banner.PNG" alt="Animated Banner" width="100%" />
